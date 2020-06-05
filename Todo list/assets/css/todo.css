@@ -1,0 +1,75 @@
+body{
+    font-family: 'balsamiq sans', cursive;
+    background: #70e1f5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ffd194, #70e1f5);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ffd194, #70e1f5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#container{
+    width : 400px;
+    margin : 0 auto;
+    background : whitesmoke;
+    box-shadow: 0 0 3px rgba(0, 0, 0 , 0.3);
+}
+h1{
+    background :steelblue;
+    color:white;
+    letter-spacing: 0.1rem;
+    font-size: 25px;
+    padding : 12px 20px;
+    margin : 0;
+    font-weight: normal;
+}
+input{
+    font-size: 18px;
+    background : whitesmoke;
+    box-sizing: border-box;
+    width : 100%;
+    color : steelblue;
+    height : 50px;
+    padding : 13px 13px 13px 20px;
+    border : 3px solid rgba(0, 0, 0 , 0); 
+}
+input:hover{
+    border : 3px steelblue dashed;
+}
+input:focus{
+    border : 3px steelblue solid;
+    outline : none;
+    background : white;
+}
+ul{
+    margin : 0;
+    padding : 0;
+    list-style: none;
+}
+li{
+    line-height: 40px;
+    height : 40px;
+    color : grey;
+    background : white;
+}
+li:nth-child(2n){
+    background-color: rgba(244,244,244,1);
+}
+li:hover span{
+    width : 40px;
+    opacity : 1.0;
+}
+.completed{
+    color : gray;
+    text-decoration: line-through;
+}
+.fa-pencil-alt{
+    float: right;
+}
+span{
+    background : #e74c3c;
+    color : white;
+    margin-right: 20px;
+    text-align: center;
+    height : 40px;
+    width : 0;
+    opacity: 0;
+    transition : 0.19s linear;
+    display: inline-block; 
+}
