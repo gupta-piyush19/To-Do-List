@@ -9,4 +9,4 @@
 ## You can clone this project or download in zip, and then just open "To-Do List.html" file.
 ### You can view this project without clone or installation as well, just [click here](https://codepen.io/Piyush0_0/pen/pojmrOg)
 
-![Sample Preview](../master/Todo list/assets/image.png)
+![Sample Preview](https://github.com/gupta-piyush19/To-Do-List/blob/master/Todo%20list/assets/image.png)
