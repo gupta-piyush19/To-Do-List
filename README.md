@@ -7,6 +7,6 @@
 # Installation
 
 ## You can clone this project or download in zip, and then just open "To-Do List.html" file.
-### You can view this project without clone or installation as well, just [click here](https://codepen.io/Piyush0_0/pen/pojmrOg)
+### You can view this project without clone or installation as well, just [click here](https://gupta-piyush19.github.io/To-Do-List/Todo%20list/)
 
 ![Sample Preview](https://github.com/gupta-piyush19/To-Do-List/blob/master/Todo%20list/assets/image.png)
